@@ -1,8 +1,8 @@
-## saucedemo-automation
+### saucedemo-automation
 
 Automation test scripts for QA assignment
 
-## Overview
+### Overview
 
 This project contains automation test scripts using *Selenium* for:
 
