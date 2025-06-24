@@ -15,5 +15,4 @@ This project contains automation test scripts using *Selenium* for:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Jahnavi1709123/qa-selenium-assignment.git
-cd qa-selenium-assignment
+git clone https://github.com/jahnavi1709123/saucedemo-automation.git
